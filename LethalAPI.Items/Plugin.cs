@@ -1,6 +1,6 @@
 ﻿using BepInEx;
 
-namespace LethalCompanyTemplate
+namespace LethalAPI.Items
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
     public class Plugin : BaseUnityPlugin
